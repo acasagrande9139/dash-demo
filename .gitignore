@@ -147,3 +147,8 @@ my-venv/bin/renderer
 my-venv/etc/jupyter/nbconfig/notebook.d/plotlywidget.json
 my-venv/share/jupyter/nbextensions/plotlywidget/extension.js
 my-venv/share/jupyter/nbextensions/plotlywidget/index.js
+my-venv/bin/autopep8
+my-venv/bin/f2py
+my-venv/bin/f2py3
+my-venv/bin/f2py3.9
+my-venv/bin/pycodestyle
