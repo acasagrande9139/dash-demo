@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
+my-venv/pyvenv.cfg
+my-venv/bin/activate
+my-venv/bin/activate.csh
+my-venv/bin/activate.fish
+my-venv/bin/Activate.ps1
+my-venv/bin/pip
+my-venv/bin/pip3
+my-venv/bin/pip3.9
+my-venv/bin/python
+my-venv/bin/python3
+my-venv/bin/python3.9
