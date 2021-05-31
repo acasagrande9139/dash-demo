@@ -139,3 +139,11 @@ my-venv/bin/pip3.9
 my-venv/bin/python
 my-venv/bin/python3
 my-venv/bin/python3.9
+my-venv/bin/dash-generate-components
+my-venv/bin/flask
+my-venv/bin/futurize
+my-venv/bin/pasteurize
+my-venv/bin/renderer
+my-venv/etc/jupyter/nbconfig/notebook.d/plotlywidget.json
+my-venv/share/jupyter/nbextensions/plotlywidget/extension.js
+my-venv/share/jupyter/nbextensions/plotlywidget/index.js
